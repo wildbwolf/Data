@@ -1,6 +1,6 @@
 /***
  * GAV Mail : ted.kwong@gavstech.com
- * pwd : Time2M@keM0ney!@#
+ * pwd : Time2M@keM0ney!
  */
    
 /***
@@ -16,8 +16,8 @@
  */
 
 /***
- * 365 Microsoft
- * Link : https://login.microsoftonline.com/
+ * D365 Microsoft
+ * Link : https://gavs.crm8.dynamics.com/main.aspx?etc=1150&id=a3b85ca2-b06e-ef11-a670-6045bdceb806&histKey=411106251&newWindow=true&pagetype=entityrecord
  * https://m365.cloud.microsoft/
  * email : ted.kwong@gavstech.com
  * pwd : Time2M@keM0ney!
